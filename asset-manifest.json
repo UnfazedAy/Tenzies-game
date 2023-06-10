@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tenzies-game/static/css/main.bc5b2310.css",
+    "main.js": "/Tenzies-game/static/js/main.3b9c9941.js",
+    "static/js/787.80cd1330.chunk.js": "/Tenzies-game/static/js/787.80cd1330.chunk.js",
+    "index.html": "/Tenzies-game/index.html",
+    "main.bc5b2310.css.map": "/Tenzies-game/static/css/main.bc5b2310.css.map",
+    "main.3b9c9941.js.map": "/Tenzies-game/static/js/main.3b9c9941.js.map",
+    "787.80cd1330.chunk.js.map": "/Tenzies-game/static/js/787.80cd1330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5b2310.css",
+    "static/js/main.3b9c9941.js"
+  ]
+}
